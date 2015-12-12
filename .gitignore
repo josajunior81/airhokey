@@ -1,0 +1,6 @@
+/target
+*.class
+*.so
+/bin
+/gen
+n
